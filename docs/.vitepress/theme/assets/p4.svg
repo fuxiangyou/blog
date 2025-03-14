@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 50 50" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <rect width="50" height="50" style="fill: rgba(216, 216, 216, 0.18); stroke-miterlimit: 2; stroke-linecap: square; stroke: rgb(0, 0, 0); stroke-opacity: 0.12;"/>
+  <line style="stroke-linecap: square; stroke-miterlimit: 1; stroke-dasharray: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 0.1;" x1="3" y1="47" x2="18" y2="47.026"/>
+  <line style="stroke-linecap: square; stroke-miterlimit: 1; stroke-dasharray: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 0.1;" x1="-73.856" y1="-37.571" x2="-88.856" y2="-37.571" transform="matrix(1, 0, 0, 1, 120.855769, 84.571459)"/>
+  <line style="stroke-linecap: square; stroke-miterlimit: 1; stroke-dasharray: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 0.1;" x1="-47.95" y1="-4.566" x2="-47.95" y2="-19.566" transform="matrix(1, 0, 0, 1, 94.949697, 51.565754)"/>
+  <line style="stroke-linecap: square; stroke-miterlimit: 1; stroke-dasharray: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 0.1;" x1="-92.858" y1="-27.205" x2="-107.858" y2="-27.205" transform="matrix(1, 0, 0, 1, 139.857735, 30.204519)"/>
+  <line style="stroke-linecap: square; stroke-miterlimit: 1; stroke-dasharray: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 0.1;" x1="-46.354" y1="-1.595" x2="-46.354" y2="13.405" transform="matrix(1, 0, 0, 1, 93.35397, 4.595354)"/>
+  <line style="stroke-linecap: square; stroke-miterlimit: 1; stroke-dasharray: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 0.1;" x1="-120.305" y1="59.933" x2="-120.305" y2="44.933" transform="matrix(1, 0, 0, 1, 123.304718, -12.933499)"/>
+  <line style="stroke-linecap: square; stroke-miterlimit: 1; stroke-dasharray: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 0.1;" x1="-76.166" y1="34.505" x2="-76.166" y2="49.505" transform="matrix(1, 0, 0, 1, 79.166018, -31.505173)"/>
+  <line style="stroke-linecap: square; stroke-miterlimit: 1; stroke-dasharray: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 0.1;" x1="-37.294" y1="-21.504" x2="-22.294" y2="-21.504" transform="matrix(1, 0, 0, 1, 40.293862, 24.503882)"/>
+</svg>

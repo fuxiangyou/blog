@@ -1,8 +1,8 @@
 {
-  "name": "LingJ-blog",
+  "name": "Fuxy-blog",
   "version": "1.0.0",
   "private": true,
-  "author": "LingJ",
+  "author": "fuxy",
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev docs",
